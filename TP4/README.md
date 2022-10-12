@@ -101,6 +101,8 @@ Une de vos VMs portera donc le serveur NFS, et l'autre utilisera un dossier à t
 
 > Si besoin, comme d'hab, je peux aider à la compréhension, n'hésitez pas à m'appeler.
 
+[Voilà ma capture PCAP pour XXX](./topto.pcapng)
+
 🌞 **Wireshark it !**
 
 - une fois que c'est en place, utilisez `tcpdump` pour capturer du trafic NFS
